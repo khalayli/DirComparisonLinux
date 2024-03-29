@@ -1,4 +1,4 @@
-# Directory Comparison Tool
+# Linux Directory Comparison Tool
 
 ## Overview
 
