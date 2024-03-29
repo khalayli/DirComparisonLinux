@@ -1,4 +1,4 @@
-# Directory Comparison Tool
+<img width="445" alt="image" src="https://github.com/khalayli/DirComparisonLinux/assets/154463029/706db8df-1b1c-4d53-9e51-279cf1045cee"># Directory Comparison Tool
 
 ## Overview
 
@@ -19,5 +19,8 @@ The Directory Comparison Tool offers the following key functionalities:
 A test_dir3 folder has been provided to test the tool.
 
 Here's how to test it,
-**On terminal:
+On terminal:
 ./dir_compare test_dir3/dirA test_dir3/dirB
+
+<img width="445" alt="image" src="https://github.com/khalayli/DirComparisonLinux/assets/154463029/442db625-bc35-4f23-bcbe-f3e204f1878d">
+
