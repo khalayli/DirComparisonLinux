@@ -1,4 +1,4 @@
-<img width="445" alt="image" src="https://github.com/khalayli/DirComparisonLinux/assets/154463029/706db8df-1b1c-4d53-9e51-279cf1045cee"># Directory Comparison Tool
+# Directory Comparison Tool
 
 ## Overview
 
